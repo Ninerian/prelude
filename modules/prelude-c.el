@@ -31,7 +31,6 @@
 ;; Boston, MA 02110-1301, USA.
 
 ;;; Code:
-
 (require 'prelude-programming)
 
 (defun prelude-c-mode-common-defaults ()

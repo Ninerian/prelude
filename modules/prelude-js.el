@@ -33,7 +33,7 @@
 ;;; Code:
 
 (require 'prelude-programming)
-(prelude-require-packages '(js2-mode json-mode))
+(prelude-require-packages '(js2-mode json-mode tern))
 
 (require 'js2-mode)
 
@@ -51,7 +51,8 @@
 
      (setq prelude-js-mode-hook 'prelude-js-mode-defaults)
 
-     (add-hook 'js2-mode-hook (lambda () (run-hooks 'prelude-js-mode-hook)))))
+     ;(add-hook 'js2-mode-hook (lambda () (run-hooks 'prelude-js-mode-hook)))
+     (add-hook 'js-mode-hook (lambda () (tern-mode t)))))
 
 (provide 'prelude-js)
 

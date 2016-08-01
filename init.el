@@ -1,3 +1,4 @@
+
 ;;; init.el --- Prelude's configuration entry point.
 ;;
 ;; Copyright (c) 2011-2016 Bozhidar Batsov
@@ -21,10 +22,10 @@
 ;; as published by the Free Software Foundation; either version 3
 ;; of the License, or (at your option) any later version.
 ;;
-;; This program is distributed in the hope that it will be useful,
-;; but WITHOUT ANY WARRANTY; without even the implied warranty of
-;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-;; GNU General Public License for more details.
+;; This program is distributed in the hope that it will be useful, but
+;; WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+;; General Public License for more details.
 ;;
 ;; You should have received a copy of the GNU General Public License
 ;; along with GNU Emacs; see the file COPYING.  If not, write to the
@@ -38,8 +39,8 @@
 
 (message "Prelude is powering up... Be patient, Master %s!" current-user)
 
-(when (version< emacs-version "24.1")
-  (error "Prelude requires at least GNU Emacs 24.1, but you're running %s" emacs-version))
+(when (version< emacs-version "24.4")
+  (error "Prelude requires at least GNU Emacs 24.4, but you're running %s" emacs-version))
 
 ;; Always load newest byte code
 (setq load-prefer-newer t)
@@ -81,6 +82,8 @@ by Prelude.")
 (add-to-list 'load-path prelude-core-dir)
 (add-to-list 'load-path prelude-modules-dir)
 (add-to-list 'load-path prelude-vendor-dir)
+(add-to-list 'load-path "~/emacs.d/personal/vendor")
+
 (prelude-add-subfolders-to-load-path prelude-vendor-dir)
 
 ;; reduce the frequency of garbage collection by making it happen on
@@ -133,3 +136,7 @@ by Prelude.")
  (run-at-time 5 nil 'prelude-tip-of-the-day))
 
 ;;; init.el ends here
+
+
+
+

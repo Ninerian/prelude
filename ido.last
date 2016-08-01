@@ -1,0 +1,120 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/daniel/.emacs-config/emacs-for-clojure/" . "customizations/")
+ ("/Users/daniel/.emacs-config/" . "emacs-for-clojure/")
+ ("/Users/daniel/" . ".emacs-config/")
+ ("/Users/daniel/Projekte/Learning/" . "clojure-koans/")
+ ("/Users/daniel/Projekte/" . "Learning/")
+ ("/Users/danielgrosse/dev/clojure/websockets/" . "vr-secondview/")
+ ("/Users/danielgrosse/dev/clojure/" . "websockets/")
+ ("/Users/danielgrosse/dev/" . "clojure/")
+ ("/Users/danielgrosse/.emacs.d/elpa/" . "dash-20160306.1222/")
+ ("/Users/danielgrosse/.emacs.d/" . "elpa/")
+ ("/Users/danielgrosse/Projekte/__daniel/Master/app/_/js/" . "tour/")
+ ("/Users/danielgrosse/Projekte/__daniel/Master/app/_/" . "js/")
+ ("/Users/danielgrosse/Projekte/__daniel/" . "Master/")
+ ("/Users/danielgrosse/Projekte/" . "__daniel/")
+ ("/Users/danielgrosse/.emacs-config/emacs-for-clojure/" . "customizations/")
+ ("/Users/danielgrosse/.emacs-config/" . "emacs-for-clojure/")
+ ("/Users/danielgrosse/" . ".dotfiles/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/daniel/Projekte/Learning/clojure-koans/"
+ "/Users/daniel/Projekte/Learning/clojure-koans/src/koans/"
+ "/Users/daniel/.emacs-config/emacs-for-clojure/customizations/"
+ "/Users/danielgrosse/dev/clojure/websockets/vr-secondview/"
+ "/Users/danielgrosse/.emacs-config/emacs-for-clojure/customizations/"
+ "/Users/danielgrosse/Projekte/__daniel/Master/"
+ "/Users/danielgrosse/Projekte/__daniel/Master/app/"
+ "/Users/danielgrosse/.dotfiles/"
+ "/Users/danielgrosse/.emacs-config/emacs-for-clojure/"
+ "/Users/danielgrosse/.emacs-config/emacs-for-clojure/profiles/"
+ "/Users/danielgrosse/.emacs.d/elpa/dash-20160306.1222/"
+ "/Users/danielgrosse/Projekte/__daniel/Master/app/_/js/tour/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "project.clj"
+ "02_strings.clj"
+ "setup-clojure.el"
+ "README.md"
+ "editing.el"
+ ".projectile"
+ "index.asp"
+ "direx.el"
+ "install.sh"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/daniel/Projekte/Learning/clojure-koans/" (22298 40502 0 0) "target/" "src/" "script/" "resources/" "README.md" "project.clj" "ideaboard.txt" "epl-v10.html" ".lein-repl-history" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/daniel/Projekte/Learning/clojure-koans/src/" (21450 37736 0 0) "koans/" "../" "./")
+
+ ("/Users/daniel/Projekte/Learning/clojure-koans/src/koans/" (22298 38620 0 0) "23_meta.clj" "22_group_by.clj" "21_partition.clj" "20_java_interop.clj" "19_datatypes.clj" "18_macros.clj" "17_atoms.clj" "16_refs.clj" "15_destructuring.clj" "14_recursion.clj" "13_creating_functions.clj" "12_sequence_comprehensions.clj" "11_lazy_sequences.clj" "10_runtime_polymorphism.clj" "09_higher_order_functions.clj" "08_conditionals.clj" "07_functions.clj" "06_maps.clj" "05_sets.clj" "04_vectors.clj" "03_lists.clj" "02_strings.clj" "01_equalities.clj" "../" "./")
+
+ ("/Users/daniel/.emacs-config/emacs-for-clojure/customizations/" (22298 7313 0 0) "zsh.el" "zencoding.el" "yasnippet.el" "web.el" "undo-tree.el" "ui.el" "string.el" "smart-forward.el" "shell-integration.el" "setup-yaml.el" "setup-web.el" "setup-js.el" "setup-css.el" "setup-clojure.el" "setup-asciidoc.el" "powerline.el" "optimize.el" "npm.el" "node.el" "navigation.el" "misc.el" "markdown.el" "linum.el" "json.el" "js2.el" "js2-refactor.el" "init-shell.el" "indent.el" "idomenu.el" "ido.el" "git.el" "flycheck.el" "expand-region.el" "elisp-editing.el" "editing.el" "direx.el" "colorize-compilation.el" "cmd.el" "auto-complete.el" "../" "./")
+
+ ("/Users/daniel/.emacs-config/emacs-for-clojure/" (22298 38039 0 0) "themes/" "snippets/" "README.md" "projectile.cache" "projectile-bookmarks.eld" "profiles/" "places" "init.el" "ido.last~" "ido.last" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf~" ".recentf" ".last-package-update-day" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/daniel/.emacs-config/" (22298 36436 0 0) "org-emacs/" "emacsjs/" "emacs-for-clojure Alias" "emacs-for-clojure/" ".emacs.d/" "../" "./")
+
+ ("/Users/daniel/" (22298 38620 0 0) "VirtualBox VMs/" "utils/" "tmp/" "sublime/" "ssdtPRGen.sh" "readme.md" "Public/" "Projekte/" "Pictures/" "node_modules/" "mydesign.json" "Music/" "Movies/" "Library/" "install-deps.sh" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "coursera/" "config.plist" "code/" "clickerHeroSave.txt" "Calibre-Bibliothek/" "Calibre Library/" "bin/" "artwork.jpg" "Applications/" "acpiTableExtract.zip" "_node_modules/" ".zshrc" ".zlogin" ".z" ".yeoman/" ".wapi/" ".vimrc" ".viminfo" ".vim/" ".vbxtqmme" ".v8flags.4.6.85.31.daniel.json" ".Trash/" ".subversion/" ".ssh/" ".sql_assistant/" ".rvm/" ".rnd" ".recentf" ".python-eggs/" ".profile" ".ports.json" ".osx" ".oracle_jre_usage/" ".npmrc" ".npm-packages/" ".npm/" ".node-gyp/" ".mysql_history" ".m2/" ".local/" ".linphonerc" ".linphone-history.db" ".lein/" ".java_history" ".IntelliJIdea14/" ".inputrc" ".idvgai4rc" ".ideaquicknotes/" ".htoprc" ".hoodie/" ".gitignore" ".gitconfig" ".gitattributes" ".gem/" ".functions" ".fontconfig/" ".extra" ".exports" ".emacs.d/" ".emacs-config/" ".DS_Store" ".dropbox_uploader" ".dropbox/" ".defold/" ".cups/" ".config/" ".composer/" ".chrome-profile/" ".CFUserTextEncoding" ".cache/" ".brew" ".bower/" ".boot/" ".bashrc" ".bash_prompt" ".bash_profile" ".bash_history" ".babel.json" ".atlassian/" ".android/" ".aliases" ".adobe/" ".ackrc" "../" "./")
+
+ ("/Users/daniel/Projekte/" (22277 19004 0 0) "Zwischenablage01.jpg" "webvr-menu-creator/" "websockets/" "Webdesign/" "vjs.ttf" "VideoJS-Regular.otf" "Unity/" "uberspace/" "Treppenrenovierung BG/" "tmp/" "testapp/" "Sketch/" "Screendesign/" "sabToSickBeard.py" "sabnzbd.log" "node_modules/" "mysql-connector-java-5.1.26-bin.jar" "Learning/" "Java/" "Grafik/" "geburtstag/" "ev3/" "dlnaclientprofiles.xml" "diginetmedia/" "Developement/" "controlLogger/" "BIlder Monika/" "Bilder für Kindergarten/" "Bernd Geschäftspapiere/" "autoProcessTV.pyc" "autoProcessTV.py" "autoProcessTV.cfg" ".DS_Store" "../" "./")
+
+ ("/Users/daniel/Projekte/Learning/" (22264 15369 0 0) "Webgl/" "ThreeJS/" "Scala/" "router-dist.php" "react-stack-playground/" "react/" "pouchdb/" "php-temp/" "opengl/" "om/" "nodeschool/" "node/" "Maven/" "laravel/" "JavaScript.Ninja.Source.Code.zip" "javascript/" "index.html" "hoodie/" "couchdb/" "clojurescript/" "clojure-koans/" "clojure/" "browserify/" "bower.json" "angularJS/" "Android/" "ampersand/" ".jshintrc" ".editorconfig" ".DS_Store" "../" "./")
+
+ ("/Users/daniel/Projekte/Learning/clojure-koans/resources/" (21450 37736 0 0) "koans.clj" "../" "./")
+
+ ("/Users/danielgrosse/dev/clojure/websockets/vr-secondview/" (22270 24733 0 0) "vr-secondview.iml" "test/" "src/" "resources/" "README.md" "project.clj" "figwheel_server.log" "dev-resources/" "build.boot" "boot.properties" ".sass-cache/" ".nrepl-history" ".lein-repl-history" ".idea/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/danielgrosse/dev/clojure/websockets/" (22205 58316 0 0) "websocketpp/" "WampShark/" "wamp-server/" "wamp-authenticator/" "vr-secondview/" "om-sente/" "multi-client-ws/" "crossbario/" "crossbarexamples/" "crossbar/" "clj-wamp-example/" "autobahn.cljs/" "autobahn-python/" "all-lein-templates.txt" "../" "./")
+
+ ("/Users/danielgrosse/dev/clojure/" (22288 40944 0 0) "xml-to-plist/" "websockets/" "test2/" "test/" "slf4j-timbre/" "luminus-template/" "hello-world/" "guided-xml-gen/" "guestbook/" "database-test/" "cljs-devtools-sample/" "clj-wamp/" "_xml-to-plist/" ".DS_Store" "../" "./")
+
+ ("/Users/danielgrosse/dev/" (22287 18160 0 0) "xcode/" "wercker-step-slack-notify/" "weblate/" "weblab-virtualtour/" "tools/" "tool-test/" "ssh:/" "snippets.sql" "snippets.sh" "slimerjs/" "servo/" "sentry/" "sensu-chef/" "regex.md" "react-tutorial/" "pano-player.wiki/" "packandgo.sh" "packages/" "nodejs/" "Learning/" "krpano_fovplugins/" "ionic/" "hapi-router/" "flask/" "ev3-nrepl/" "EngineeringMode-Grapnel.js-bf3dccd/" "enblend/" "email/" "docker/" "convertPSD.sh" "clojure/" "binomial" "applescript/" "adb-sync/" ".DS_Store" ".com.apple.timemachine.supported" "../" "./")
+
+ ("/Users/danielgrosse/" (22298 7736 0 0) "~/" "weblate2/" "VirtualBox VMs/" "utils/" "teamsysdata/" "target/" "sublime/" "SpiderOak Hive/" "sitespeed-result/" "Sites/" "Screenshots/" "readme.md" "Public/" "Projekte/" "Pictures/" "Music/" "Movies/" "local.dev.key" "local.dev.crt Alias" "local.dev.crt" "Library/" "key.pem" "install-deps.sh" "iMac11_1.plist" "ievms.sh" "IdeaProjects/" "ffmpeg/" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "daniel.dev.key" "daniel.dev.cert" "csr.pem" "code/" "ClionProjects/" "Backup/" "Applications/" "Adobe CS5 Cleaner Tool.log" ".zshrc" ".zshenv" ".zsh-update" ".zprofile" ".zlogout" ".zcompdump-Daniels iMac-5.0.8" ".z.8577" ".z.6991" ".z.5780" ".z.31804" ".z.31060" ".z.30306" ".z.25336" ".z.24096" ".z.23882" ".z.21922" ".z.2003" ".z.19966" ".z.19622" ".z.19167" ".z.1702" ".z.15560" ".z.14733" ".z.14270" ".z.1402" ".z.1289" ".z.12163" ".z" ".youtrack/" ".XSManager/" ".Xauthority" ".wget-hsts" ".WebIde80/" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".swt/" ".subversion/" ".stunnixws/" ".ssh/" ".shellvars" ".shellpaths" ".shellfn" ".shellaliases" ".sentry/" ".screenrc" ".rnd" ".rbenv/" ".python-eggs/" ".pyexiftoolgui/" ".PyCharm50/" ".psql_history" ".profile" ".powconfig" ".pow/" ".ports.json" ".plugman/" ".planck_history" ".overtone/" ".osx" ".oracle_jre_usage/" ".openshift/" ".nvm/" ".npmrc" ".npm/" ".node_repl_history" ".node-gyp/" ".nchsoftware/" ".mysql_history" ".mplayer/" ".mitmproxy/" ".mediathek3/" ".matplotlib/" ".m2/" ".local/" ".lein_history" ".lein/" ".IntelliJIdea14/" ".InstallAnywhere/" ".inputrc" ".ievms/" ".hoodie/" ".grunt-init/" ".gnupg/" ".gitlab_ci_multi_runner/" ".gitignore" ".gitconfig" ".gitattributes" ".gemrc" ".gem/" ".functions" ".freac/" ".FontForge/" ".flashTool/" ".extra" ".exports" ".emacs.d/" ".emacs-d-backup/" ".emacs-config/" ".dvdcss/" ".DS_Store" ".dropbox_uploader" ".dropbox/" ".dotfiles_old/" ".dotfiles_backup/" ".dotfiles/" ".docker/" ".cups/" ".crontab" ".cordova/" ".config/" ".composer/" ".com.briangonzalez.org.FontPrep.version" ".com.briangonzalez.org.FontPrep.pid" ".cocoapods/" ".CFUserTextEncoding" ".canary-ws/" ".cache/" ".brew" ".boot/" ".bashrc" ".bash_sessions/" ".bash_prompt" ".bash_profile" ".bash_history" ".bash_aliases" ".babel.json" ".aws-projects/" ".atom/" ".appgyver/" ".android/" ".aliases" ".adobe/" ".ackrc" "../" "./")
+
+ ("/Users/danielgrosse/.emacs-config/emacs-for-clojure/customizations/" (22298 4146 0 0) "zsh.el" "zencoding.el" "yasnippet.el" "web.el" "undo-tree.el" "ui.el" "string.el" "smart-forward.el" "shell-integration.el" "setup-yaml.el" "setup-web.el" "setup-js.el" "setup-css.el" "setup-clojure.el" "setup-asciidoc.el" "powerline.el" "optimize.el" "npm.el" "node.el" "navigation.el" "misc.el" "markdown.el" "linum.el" "json.el" "js2.el" "js2-refactor.el" "init-shell.el" "indent.el" "idomenu.el" "ido.el" "git.el" "flycheck.el" "expand-region.el" "elisp-editing.el" "editing.el" "direx.el" "colorize-compilation.el" "cmd.el" "auto-complete.el" "../" "./")
+
+ ("/Users/danielgrosse/.emacs-config/emacs-for-clojure/" (22298 7274 0 0) "themes/" "snippets/" "README.md" "projectile.cache" "projectile-bookmarks.eld" "profiles/" "places" "init.el" "ido.last~" "ido.last" "elpa/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf~" ".recentf" ".last-package-update-day" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/danielgrosse/.emacs-config/emacs-for-clojure/profiles/" (22298 3737 0 0) "js.el" "golang.el" "default.el" "coffee.el" "clojure.el" "../" "./")
+
+ ("/Users/danielgrosse/.dotfiles/" (22298 2942 0 0) "z-zsh/" "utils/" "restore.sh" "README.md" "osx.sh" "oh-my-zsh/" "LICENSE.md" "lib.sh" "install.sh" "img/" "configs/" "CODE_OF_CONDUCT.md" ".zshrc" ".zshenv" ".zprofile" ".zlogout" ".vimrc" ".vim/" ".shellvars" ".shellpaths" ".shellfn" ".shellaliases" ".screenrc" ".profile" ".lein/" ".gitmodules" ".gitignore" ".gitconfig" ".git_template/" ".git/" ".gemrc" ".DS_Store" ".dir-locals.el" ".crontab" "../" "./")
+
+ ("/Users/" (22154 24672 0 0) "Shared/" "Deleted Users/" "danielgrosse/" ".localized" ".com.apple.timemachine.supported" "../" "./")
+
+ ("/Users/danielgrosse/.emacs-config/" (22296 56872 0 0) "org-emacs/" "emacsjs/" "emacs-for-clojure/" "../" "./")
+
+ ("/Users/danielgrosse/.emacs.d/elpa/dash-20160306.1222/" (22296 55407 0 0) "dash.elc" "dash.el" "dash-pkg.elc" "dash-pkg.el" "dash-autoloads.el~" "dash-autoloads.el" "../" "./")
+
+ ("/Users/danielgrosse/.emacs.d/elpa/" (22296 55406 0 0) "yaml-mode-20160220.340/" "with-editor-20160408.201/" "term-run-20151228.105/" "tagedit-20160418.31/" "tagedit-20140618.521/" "spinner-1.7.1/" "smex-20151212.1409/" "smex-20140425.1314/" "seq-2.15/" "scss-mode-20150107.1400/" "s-20160405.920/" "s-20140714.707/" "rainbow-delimiters-20150320.17/" "queue-0.1.1/" "projectile-20160420.1508/" "projectile-20140716.416/" "pkg-info-20150517.443/" "pkg-info-20140610.630/" "paredit-20160324.1215/" "paredit-20140128.1248/" "magit-popup-20160414.251/" "magit-20160420.1524/" "magit-20140720.358/" "ido-ubiquitous-20160319.2338/" "ido-ubiquitous-20140526.1306/" "ido-completing-read+-20160319.2338/" "idea-darkula-theme-readme.txt" "idea-darkula-theme-20160416.1603/" "id-manager-readme.txt" "haskell-mode-20160419.752/" "git-rebase-mode-20140605.520/" "git-commit-mode-20140605.520/" "git-commit-20160414.251/" "git-command-20160111.503/" "exec-path-from-shell-20160112.2246/" "exec-path-from-shell-20141212.846/" "epl-20150517.433/" "epl-20140620.218/" "enh-ruby-mode-20151123.141/" "dash-20160306.1222/" "company-20160413.1347/" "coffee-mode-20160419.1947/" "clojure-mode-extra-font-locking-20160307.414/" "clojure-mode-extra-font-locking-20140613.839/" "clojure-mode-20160414.545/" "clojure-mode-20141120.1410/" "cl-lib-0.5/" "cider-readme.txt" "cider-decompile-readme.txt" "cider-0.12.0/" "auto-package-update-20151025.2311/" "async-20160223.146/" "archives/" "ag-20160321.1606/" "ack-and-a-half-1.2.0/" "../" "./")
+
+ ("/Users/danielgrosse/.emacs.d/" (22296 55413 0 0) "themes/" "README.md" "projectile-bookmarks.eld" "places" "init.el" "ido.last~" "ido.last" "elpa/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf~" ".recentf" ".last-package-update-day" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/danielgrosse/Projekte/__daniel/Master/app/_/js/tour/" (22294 12705 0 0) "websockets.js" "weather_google.js" "translate.js" "tracking_webtrends.js" "tracking_kongresshotel.js" "tracking_etracker.js" "tracking.js" "tour.js" "sitemap.js" "scrollView.js" "resize.js" "overlay.js" "modifier.js" "language.js" "infobox.js" "help.js" "guidedTour.js" "groundplan_develop_resize_info_view.js" "groundplan.js" "googlemaps.js" "functions.js" "fullscreen.js" "div.js" "contentBox.js" "buttonView.js" "api.js" "../" "./")
+
+ ("/Users/danielgrosse/Projekte/__daniel/Master/app/_/js/" (22028 54441 0 0) "vrmode/" "vendor/" "tour/" "base/" "app.js" "../" "./")
+
+ ("/Users/danielgrosse/Projekte/__daniel/Master/app/_/" (22293 50522 0 0) "views/" "Versions.xlsx" "proxy.php" "pics/" "js/" "index_dev.php" "index.php" "index.html" "index.asp" "inc/" "fonts/" "favicon.ico" "direct.html" "css/" "bower_components/" "api-example.html" "../" "./")
+
+ ("/Users/danielgrosse/Projekte/__daniel/Master/app/" (22293 50522 0 0) "robots.txt" "linkgenerator.php" "linkgenerator.html" "integrated.html" "index.php" "index.html" "index.asp" "favicon.ico" "_/" "[project]/" "404.html" ".htaccess" "../" "./")
+
+ ("/Users/danielgrosse/Projekte/__daniel/Master/" (22294 11180 0 0) "tmp/" "pics/" "package.json" "node_modules/" "jsdoc.conf" "Gruntfile.js" "etc/" "doc/" "dist/" "de_00206/" "de_00203/" "de_00202/" "de_00120/" "de_00098/" "de_00070/" "de_00069/" "de_00048/" "de_00001/" "ch_00013/" "bower_components/" "bower.json" "at_00088/" "app/" "_style/" "_sound/" "_languages/" "_images/" "_icon/" "_DEVELOP/" "__TOOLS/" ".tmp/" ".jshintrc" ".idea/" ".gitmodules" ".gitlab-ci.yml" ".gitignore" ".git/" ".editorconfig" ".DS_Store" ".bowerrc" "../" "./")
+
+ ("/Users/danielgrosse/Projekte/__daniel/" (22089 41733 0 0) "website/" "test/" "server/" "projectIndexer/" "Master/" "index.php" "error_log" "dm-panoplayer-dist/" "diginet-panorama-player/" "configs/" "cd-version/" "Backup/" "_Website/" "_settings.json" "_MISC/" "__TOOLS/" ".idea/" ".DS_Store" "../" "./")
+
+ ("/Users/danielgrosse/Projekte/" (22283 17887 0 0) "xcode/" "viessmann-logokreis.pdf" "viessmann-logokreis.jpg" "video.js/" "tour-planer/" "tmp/" "shell/" "sendy/" "samples/" "recherche/" "phpinfo.php" "paw/" "new layout/" "matrix-effekt/" "krpano_three_js_example.zip" "krpano_three_js_example/" "krpano-1.19-pr4.dmg" "krpano-1.19-pr4/" "krpano-1.19-pr3/" "krpano-1.18.4/" "itb-newsletter/" "ITB Text englisch.doc" "INTENSO/" "facebook/" "Excel2Plist.xlsm" "email-newsletter/" "email/" "Dokumentation/" "DisplayDirectoryContents/" "developer/" "converted/" "buttons_hd.png" "buttons.png" "Ausgabe/" "at_00051_patch.zip" "at_00051/" "Assets/" "Anleitung/" "__daniel/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
