@@ -7,7 +7,7 @@
                             ag
                             powerline
                            ; tern
-                           ;tern-auto-complete
+                           ;tern-auto-complete                         
                             ))
 
 (load-theme 'idea-darkula t)
@@ -15,6 +15,5 @@
 (setq prelude-whitespace nil)
 
 (add-hook 'magit-mode-hook 'turn-on-magit-gitflow)
-(setq ns-use-srgb-colorspace nil)
-(powerline-default-theme)
 
+(powerline-default-theme)

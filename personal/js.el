@@ -191,7 +191,15 @@ unreachable."
       js-doc-license "copyright 2016")
 
 
+;(define-key map (kbd "s-m f") 'magit-log-buffer-File)
+
+(add-hook 'js2-mode-hook
+          #'(lambda ()
+              (define-key js2-mode-map (kbd "s-i") 'js-doc-insert-function-doc)
+              (define-key js2-mode-map "@" 'js-doc-insert-tag)))
+
     ;(define-key map (kbd "s-m f") 'magit-log-buffer-file)
+
+
 (provide 'js)
-;;(provide 'key)
 ;;; js.el ends here

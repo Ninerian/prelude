@@ -7,6 +7,7 @@
 
 ;;; Code:
 ;(global-set-key (kbd "<C-M-s>") [(super ?\ )])
+
 (setq ns-right-alternate-modifier nil)
 
 (global-set-key (kbd "C-S-c C-S-c") 'mc/edit-lines)
@@ -17,5 +18,5 @@
 (global-set-key (kbd "C-x C-c") nil)
 
 
-;;(provide 'key)
+(provide 'key)
 ;;; key.el ends here

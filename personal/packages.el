@@ -27,4 +27,5 @@
 (add-to-list 'auto-mode-alist '("\\.frag\\'" . glsl-mode))
 (add-to-list 'auto-mode-alist '("\\.geom\\'" . glsl-mode))
 
+(provide 'packages.el)
 ;;; packages.el ends here

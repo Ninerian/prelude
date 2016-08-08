@@ -1,7 +1,7 @@
 *~
 *.elc
 auto-save-list
-recentf
+.recentf
 savehist
 saveplace
 eshell
@@ -21,3 +21,4 @@ session*
 .cask
 tramp
 /var/pcache
+.mc-lists.*
